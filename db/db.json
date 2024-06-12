@@ -1,0 +1,68 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Hello World",
+      "author": "John Doe"
+    },
+    {
+      "id": "2",
+      "title": "Learning JSON Server",
+      "author": "Jane Doe"
+    },
+    {
+      "id": "fda0",
+      "title": "New Post",
+      "author": "Author Name"
+    },
+    {
+      "id": "de45",
+      "title": "안녕",
+      "author": "ㅁㅇㄴ"
+    },
+    {
+      "id": "e98b",
+      "title": "안녕",
+      "author": "우영우"
+    },
+    {
+      "id": "7c43",
+      "title": "안녕하나",
+      "author": "이창수"
+    },
+    {
+      "id": "53c3",
+      "title": "우리집",
+      "author": "피지걸"
+    },
+    {
+      "id": "52ad",
+      "title": "우리집",
+      "author": "피지걸"
+    },
+    {
+      "id": "6277",
+      "title": "ㅁㄴㅇ",
+      "author": "ㅁㄴㅇ"
+    },
+    {
+      "id": "8109",
+      "title": "우영우",
+      "author": "ㄴㅁㅇ"
+    }
+  ],
+  "comments": [
+    {
+      "id": "3",
+      "body": "This is a comment.",
+      "postId": 1
+    }
+  ],
+  "todos": [
+    {
+      "id": "4",
+      "body": "This is a ment.",
+      "postId": 3
+    }
+  ]
+}
